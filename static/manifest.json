@@ -1,0 +1,10 @@
+{
+    "name": "Yew • TodoMVC",
+    "short_name": "TodoMVC",
+    "description": "TodoMVC app using yew.rs",
+    "display": "standalone",
+    "orientation": "any",
+    "lang": "English",
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF"
+}
