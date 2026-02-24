@@ -9,7 +9,7 @@ crate-type = ["cdylib", "rlib"]
 
 [dependencies]
 log = "0.4"
-strum = "0.19.2"
+strum = "0.28.0"
 strum_macros = "0.19.2"
 serde = "1"
 serde_derive = "1"
